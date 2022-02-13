@@ -1,0 +1,9 @@
+name: RandomPicker
+version: '${project.version}'
+main: info.ahaha.randompicker.RandomPicker
+api-version: 1.16
+
+commands:
+  randompick:
+    aliases:
+      - rp
